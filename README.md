@@ -13,7 +13,7 @@ https://shields.io/
 ![GitHub](https://img.shields.io/github/license/professorjosedeassis/infoX)
 ![Twitter Follow](https://img.shields.io/twitter/follow/joseassis?label=Seguir&style=social)
 -->
-## Olá! 👋 Sou o <i>Cesar Augusto da Costa</i>, conhecido como <em>Cesinha Shaolin</em>. 
+## Olá! 👋 Sou o <i>Cesar Augusto da Costa</i>, conhecido como <em>Cesinha</em>. 
 
 <div align="center">
   <a href="https://github.com/cesar-augusto-costa">
